@@ -1,0 +1,1 @@
+# Simple example to use SQLlite lib in Python
