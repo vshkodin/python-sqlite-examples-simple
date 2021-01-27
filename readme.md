@@ -1,1 +1,1 @@
-# Simple example to use SQLlite lib in Python
+# Simple example to use sqlite lib in Python
